@@ -15,9 +15,10 @@ redirect_from:
 
 ## 📚 Education
 
-## The Ohio State University, Doctor of Philosophy – Computer Science
+## The Ohio State University
 
-### Aug 2023 – May 2028 (expected)
+**Doctor of Philosophy – Computer Science**
+*Aug 2023 – May 2028 (expected)*
 
 **Research Focus:**  
 Time-series clustering, distance measures, scalable temporal mining, and foundational algorithms for univariate and multivariate time-series analysis.
@@ -28,10 +29,8 @@ Time-series clustering, distance measures, scalable temporal mining, and foundat
 
 ## Columbia University
 
-**Master of Science – Computer Science**  
+**Master of Science – Computer Science (GPA: 3.8383 / 4.00)**  
 *Aug 2021 – Dec 2022*
-
-**GPA:** 3.8383 / 4.00
 
 **Relevant Coursework:**  
 Introduction to Databases; Computational Aspects of Robotics; Projects in Computer Science; Analysis of Algorithms; Artificial Intelligence; Natural Language Processing; Advanced Computer Vision; Cloud Computing & Big Data
@@ -40,10 +39,8 @@ Introduction to Databases; Computational Aspects of Robotics; Projects in Comput
 
 ## Penn State University
 
-**Bachelor of Science – Computer Science (Minor: Mathematics Applications)**  
+**Bachelor of Science – Computer Science & Minor: Mathematics Applications (GPA: 4.0 / 4.0 Summa Cum Laude)**  
 *Sep 2017 – May 2021*
-
-**GPA:** 4.0 / 4.0 **Summa Cum Laude** (Top 2% of graduating class)
 
 **Activities:** President of **P-LINK**
 
