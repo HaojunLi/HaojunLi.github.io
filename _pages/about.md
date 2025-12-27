@@ -13,10 +13,10 @@ redirect_from:
 
 🧐 My undergraduate and master’s studies focused on research in computational biology.
 
-
-# Education
+## 📚 Education
 
 ## The Ohio State University
+
 **Doctor of Philosophy – Computer Science**  
 *Aug 2023 – May 2028 (expected)*
 
@@ -27,6 +27,7 @@ Time-series clustering, distance measures, scalable temporal mining, and foundat
 **Lab:** The DATUM Lab
 
 ## Columbia University
+
 **Master of Science – Computer Science**  
 *Aug 2021 – Dec 2022*
 
@@ -36,6 +37,7 @@ Time-series clustering, distance measures, scalable temporal mining, and foundat
 Introduction to Databases; Computational Aspects of Robotics; Projects in Computer Science; Analysis of Algorithms; Artificial Intelligence; Natural Language Processing; Advanced Computer Vision; Cloud Computing & Big Data.
 
 ## Penn State University
+
 **Bachelor of Science – Computer Science**  
 *Sep 2017 – May 2021*
 
@@ -48,8 +50,9 @@ Introduction to Databases; Computational Aspects of Robotics; Projects in Comput
 **Relevant Coursework:**  
 Programming in C, Java, and Python; Machine Learning; Database Management; Computer Vision; Operating Systems; Data Structures; Algorithms
 
-**Honors and Awards:**  
-- Dean’s List (2017–2020)  
+**Honors and Awards:**
+
+- Dean’s List (2017–2020)
 - Undergraduate Research Award: *Excellence in Info. Literacy* (Honored 100 students across 19 PSU campuses) (May 2021)  
 - The Evan Pugh Scholar Senior Award (Top 0.5%) (Apr. 2021)  
 - The Evan Pugh Scholar Junior Award (Top 0.5%) (Apr. 2020)  
