@@ -13,7 +13,7 @@ redirect_from:
 
 🧐 My undergraduate and master’s studies focused on research in computational biology.
 
-# 📚 Education
+## **📚 Education**
 
 ## The Ohio State University
 
