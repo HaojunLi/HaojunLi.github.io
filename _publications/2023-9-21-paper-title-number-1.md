@@ -2,7 +2,6 @@
 title: "Modeling policy interventions for slowing the spread of artemisinin-resistant pfkelch R561H mutations in Rwanda"
 collection: publications
 category: Papers
-permalink: https://www.nature.com/articles/s41591-023-02551-w
 date: 2023-09-21
 authors: Robert J Zupko, Tran Dang Nguyen, J Claude S Ngabonziza, Michee Kabera, **Haojun Li**, Thu Nguyen-Anh Tran, Kien Trung Tran, Aline Uwimana, Maciej F Boni
 venue: 'Nature medicine'

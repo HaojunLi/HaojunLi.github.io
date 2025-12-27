@@ -2,7 +2,6 @@
 title: "Bridging the gap: A decade review of time-series clustering methods"
 collection: publications
 category: Papers
-permalink: https://arxiv.org/abs/2412.20582
 date: 2024-12-29
 authors: John Paparrizos, Fan Yang, **Haojun Li**
 venue: 'arXiv'
