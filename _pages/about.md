@@ -15,17 +15,17 @@ redirect_from:
 
 ## 📚 Education
 
-<!-- ## The Ohio State University
+## The Ohio State University
 
-**Doctor of Philosophy – Computer Science**
+**Doctor of Philosophy – Computer Science (GPA: 4.0 / 4.0)**
 *Aug 2023 – May 2028 (expected)*
 
 **Research Focus:**  
 Time-series clustering, distance measures, scalable temporal mining, and foundational algorithms for univariate and multivariate time-series analysis.
 
-**Advisor:** [Professor John Paparrizos, The DATUM Lab](https://www.paparrizos.org/) -->
+**Advisor:** [Professor John Paparrizos, The DATUM Lab](https://www.paparrizos.org/)
 
-<!-- ---
+---
 
 ## Columbia University
 
@@ -39,7 +39,7 @@ Introduction to Databases; Computational Aspects of Robotics; Projects in Comput
 
 ## Penn State University
 
-**Bachelor of Science – Computer Science & Minor: Mathematics Applications (GPA: 4.0 / 4.0 Summa Cum Laude)**  
+**Bachelor of Science – Computer Science & Minor in Mathematics Applications (GPA: 4.0 / 4.0 Summa Cum Laude)**  
 *Sep 2017 – May 2021*
 
 **Activities:** President of **P-LINK**
@@ -55,4 +55,4 @@ Programming in C, Java, and Python; Machine Learning; Database Management; Compu
 - Evan Pugh Scholar Junior Award (Top 0.5%) (Apr. 2020)  
 - Ayoub Mathematics Achievement Award ($2,799; sole recipient) (Apr. 2019)  
 - President’s Sparks Award (Sophomores with GPA 4.0) (Apr. 2019)  
-- President’s Freshman Award (Freshmen with GPA 4.0) (Apr. 2018) -->
+- President’s Freshman Award (Freshmen with GPA 4.0) (Apr. 2018)
