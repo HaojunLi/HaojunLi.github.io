@@ -15,7 +15,7 @@ redirect_from:
 
 ## 📚 Education
 
-## The Ohio State University
+### The Ohio State University
 
 **Doctor of Philosophy – Computer Science**  
 *Aug 2023 – May 2028 (expected)*
@@ -25,7 +25,7 @@ Time-series clustering, distance measures, scalable temporal mining, and foundat
 
 ---
 
-## Columbia University
+### Columbia University
 
 **Master of Science – Computer Science**  
 *Aug 2021 – Dec 2022*
