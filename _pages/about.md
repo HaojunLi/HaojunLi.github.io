@@ -15,7 +15,7 @@ redirect_from:
 
 ## 📚 Education
 
-## The Ohio State University
+### The Ohio State University
 
 **Doctor of Philosophy – Computer Science**  
 *Aug 2023 – May 2028 (expected)*
@@ -26,24 +26,28 @@ Time-series clustering, distance measures, scalable temporal mining, and foundat
 **Advisor:** Professor John Paparrizos  
 **Lab:** The DATUM Lab
 
-## Columbia University
+---
+
+### Columbia University
 
 **Master of Science – Computer Science**  
 *Aug 2021 – Dec 2022*
 
-**Grade:** 3.8383 / 4.00
+**GPA:** 3.8383 / 4.00
 
 **Relevant Coursework:**  
-Introduction to Databases; Computational Aspects of Robotics; Projects in Computer Science; Analysis of Algorithms; Artificial Intelligence; Natural Language Processing; Advanced Computer Vision; Cloud Computing & Big Data.
+Introduction to Databases; Computational Aspects of Robotics; Projects in Computer Science; Analysis of Algorithms; Artificial Intelligence; Natural Language Processing; Advanced Computer Vision; Cloud Computing & Big Data
 
-## Penn State University
+---
+
+### Penn State University
 
 **Bachelor of Science – Computer Science**  
 *Sep 2017 – May 2021*
 
-**Grade:** GPA 4.0/4.0 | *Summa Cum Laude* (Top 2% of the graduating class)
+**GPA:** 4.0 / 4.0 | *Summa Cum Laude* (Top 2% of graduating class)
 
-**Activities and Societies:** President of the student organization **P-LINK**
+**Activities:** President of **P-LINK**
 
 **Minor:** Mathematics Applications
 
@@ -52,10 +56,10 @@ Programming in C, Java, and Python; Machine Learning; Database Management; Compu
 
 **Honors and Awards:**
 
-- Dean’s List (2017–2020)
-- Undergraduate Research Award: *Excellence in Info. Literacy* (Honored 100 students across 19 PSU campuses) (May 2021)  
-- The Evan Pugh Scholar Senior Award (Top 0.5%) (Apr. 2021)  
-- The Evan Pugh Scholar Junior Award (Top 0.5%) (Apr. 2020)  
-- Ayoub Mathematics Achievement Award ($2,799; sole recipient that year) (Apr. 2019)  
-- The President’s Sparks Award (Presented to sophomores with GPA 4.0) (Apr. 2019)  
-- The President’s Freshman Award (Presented to freshmen with GPA 4.0) (Apr. 2018)
+- Dean’s List (2017–2020)  
+- Undergraduate Research Award: *Excellence in Information Literacy* (Honored 100 students across 19 campuses) (May 2021)  
+- Evan Pugh Scholar Senior Award (Top 0.5%) (Apr. 2021)  
+- Evan Pugh Scholar Junior Award (Top 0.5%) (Apr. 2020)  
+- Ayoub Mathematics Achievement Award ($2,799; sole recipient) (Apr. 2019)  
+- President’s Sparks Award (Sophomores with GPA 4.0) (Apr. 2019)  
+- President’s Freshman Award (Freshmen with GPA 4.0) (Apr. 2018)
