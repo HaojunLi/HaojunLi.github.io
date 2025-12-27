@@ -15,7 +15,7 @@ redirect_from:
 
 ## 📚 Education
 
-## The Ohio State University
+<!-- ## The Ohio State University
 
 **Doctor of Philosophy – Computer Science**
 *Aug 2023 – May 2028 (expected)*
@@ -23,7 +23,7 @@ redirect_from:
 **Research Focus:**  
 Time-series clustering, distance measures, scalable temporal mining, and foundational algorithms for univariate and multivariate time-series analysis.
 
-**Advisor:** [Professor John Paparrizos, The DATUM Lab](https://www.paparrizos.org/)
+**Advisor:** [Professor John Paparrizos, The DATUM Lab](https://www.paparrizos.org/) -->
 
 <!-- ---
 
