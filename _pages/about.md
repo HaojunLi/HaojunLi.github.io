@@ -15,10 +15,9 @@ redirect_from:
 
 ## 📚 Education
 
-## The Ohio State University
+## The Ohio State University, Doctor of Philosophy – Computer Science
 
-**Doctor of Philosophy – Computer Science**
-*Aug 2023 – May 2028 (expected)*
+### Aug 2023 – May 2028 (expected)
 
 **Research Focus:**  
 Time-series clustering, distance measures, scalable temporal mining, and foundational algorithms for univariate and multivariate time-series analysis.
