@@ -15,7 +15,7 @@ redirect_from:
 
 ## 📚 Education
 
-## The Ohio State University 
+## The Ohio State University
 
 **Doctor of Philosophy – Computer Science**
 *Aug 2023 – May 2028 (expected)*
