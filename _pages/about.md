@@ -17,7 +17,7 @@ redirect_from:
 
 ## The Ohio State University
 
-**Doctor of Philosophy – Computer Science (GPA: 4.0 / 4.0)**
+**Doctor of Philosophy – Computer Science (GPA: 4.0 / 4.0)**  
 *Aug 2023 – May 2028 (expected)*
 
 **Research Focus:**  
