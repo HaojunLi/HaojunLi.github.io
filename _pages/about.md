@@ -25,7 +25,7 @@ Time-series clustering, distance measures, scalable temporal mining, and foundat
 
 **Advisor:** [Professor John Paparrizos, The DATUM Lab](https://www.paparrizos.org/)
 
----
+<!-- ---
 
 ## Columbia University
 
@@ -55,4 +55,4 @@ Programming in C, Java, and Python; Machine Learning; Database Management; Compu
 - Evan Pugh Scholar Junior Award (Top 0.5%) (Apr. 2020)  
 - Ayoub Mathematics Achievement Award ($2,799; sole recipient) (Apr. 2019)  
 - President’s Sparks Award (Sophomores with GPA 4.0) (Apr. 2019)  
-- President’s Freshman Award (Freshmen with GPA 4.0) (Apr. 2018)
+- President’s Freshman Award (Freshmen with GPA 4.0) (Apr. 2018) -->
