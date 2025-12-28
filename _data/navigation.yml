@@ -11,8 +11,8 @@ main:
   - title: "CV"
     url: /files/HaojunLi_CV_OSU.pdf
   
-  - title: "Portfolio"
-    url: /portfolio/
+  # - title: "Portfolio"
+  #   url: /portfolio/
 
   - title: "Publications"
     url: /publications/
